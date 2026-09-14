@@ -1,6 +1,10 @@
-opencv-python
+streamlit
+opencv-python-headless
+numpy==1.26.4
 pandas
-mediapipe
+mediapipe==0.10.21
+scikit-learn
 xgboost
-pickle
-
+streamlit-webrtc
+av
+protobuf==4.25.9
